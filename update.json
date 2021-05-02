@@ -1,0 +1,10 @@
+{
+    "darwin": {
+        "version:": "1.0.4",
+        "download": ""
+    },
+    "win32": {
+        "version:": "1.0.4",
+        "download": ""
+    }
+}
